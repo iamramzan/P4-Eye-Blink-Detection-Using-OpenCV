@@ -30,7 +30,9 @@ Confirm the presence of eyes in the initial setup to avoid false detections and 
 Implement a logic to monitor eye state changes (open → closed → open) to detect blinks. Track and log the number of blinks in real time.
 
 👨‍💻 Key Features
-• Real-time eye tracking and blink detection using a webcam.
-• Noise reduction for improved detection accuracy.
-• Facial region isolation for faster processing.
-• Scalable and customizable for various use cases like drowsiness detection and gaze monitoring.
+- Real-time eye tracking and blink detection using a webcam.
+- Noise reduction for improved detection accuracy.
+- Facial region isolation for faster processing.
+- Scalable and customizable for various use cases like drowsiness detection and gaze monitoring.
+
+<img src="https://github.com/iamramzan/P2-Eye-Blink-Detection-Project/blob/main/Eye_Blink_Detection.png">
