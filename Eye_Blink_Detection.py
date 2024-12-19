@@ -1,4 +1,4 @@
-# P5: Eye Blink Detection Using OpenCV
+# P4: Eye Blink Detection Using OpenCV
 
 #imports the libraries
 import numpy as np
