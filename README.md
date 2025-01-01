@@ -35,4 +35,4 @@ Implement a logic to monitor eye state changes (open → closed → open) to det
 - Facial region isolation for faster processing.
 - Scalable and customizable for various use cases like drowsiness detection and gaze monitoring.
 
-<img src="https://github.com/iamramzan/P2-Eye-Blink-Detection-Project/blob/main/Eye_Blink_Detection.png">
+[![P4: Eye Blink Detection Using OpenCV](https://img.youtube.com/vi/gQbu33XqYbQ/0.jpg)](https://youtu.be/gQbu33XqYbQ)
