@@ -1,13 +1,13 @@
-# P4-Eye-Blink-Detection-Project
+## P4-Eye-Blink-Detection-Project
 
 In this project, I developed an Eye Blink Detection Model using OpenCV, NumPy, and Python. This project focuses on detecting blinks in real time, leveraging computer vision techniques. While it’s a fairly straightforward task, it’s essential to have a basic understanding of OpenCV and face landmark detection as they form the foundation of this implementation.
 
-🔧 Tools and Libraries Used
+## 🔧 Tools and Libraries Used
 - Python 3: The primary programming language for developing the script.
 - NumPy: Used for efficient data manipulation and array operations.
 - OpenCV: The go-to open-source library for computer vision tasks. It enables real-time video frame capture, image processing, and facial landmark detection.
 
-🧩 Step-by-Step Process
+## 🧩 Step-by-Step Process
 1. Install Required Packages:
 Ensure all necessary libraries, such as OpenCV and NumPy, are installed. Use pip install opencv-python and pip install numpy to set up your environment.
 2. Initialize and Read from the Webcam:
@@ -29,7 +29,7 @@ Confirm the presence of eyes in the initial setup to avoid false detections and 
 10. Start Blink Detection:
 Implement a logic to monitor eye state changes (open → closed → open) to detect blinks. Track and log the number of blinks in real time.
 
-👨‍💻 Key Features
+## 👨‍💻 Key Features
 - Real-time eye tracking and blink detection using a webcam.
 - Noise reduction for improved detection accuracy.
 - Facial region isolation for faster processing.
