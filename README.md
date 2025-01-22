@@ -1,4 +1,4 @@
-## P4-Eye-Blink-Detection-Project
+## Eye-Blink-Detection-Project
 
 In this project, I developed an Eye Blink Detection Model using OpenCV, NumPy, and Python. This project focuses on detecting blinks in real time, leveraging computer vision techniques. While it’s a fairly straightforward task, it’s essential to have a basic understanding of OpenCV and face landmark detection as they form the foundation of this implementation.
 
